@@ -2,8 +2,9 @@
 Currently focusing on solving algorithmic problems. (until June of 2023)
 
 ## 🚀 Activity
-- 42 Seoul 9th Cadet (2023.03~ )
-- SW Maestro 14th Trainee (2023.04.~ )
+- UMC 3rd Graduate (2022.09. ~ 2023.02.)
+- 42 Seoul 9th Cadet (2023.03. ~ )
+- SW Maestro 14th Trainee (2023.04. ~ )
 
 ## 🔭 Current Interest
 - C/C++
