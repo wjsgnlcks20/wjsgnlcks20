@@ -1,5 +1,5 @@
 # Hwichan Jeon (wjsgnlcks20)
-Currently focusing on solving algorithmic problems. (until June of 2023)
+Currently focusing on solving algorithmic problems.
 
 ## 🚀 Activity
 - UMC 3rd Graduate (2022.09. ~ 2023.02.)
