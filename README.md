@@ -1,5 +1,5 @@
 # Hwichan Jeon (wjsgnlcks20)
-Currently focusing on solving algorithmic problems.
+Currently focusing on developing & growing the service "HairBe"
 
 ## 🚀 Activity
 - UMC 3rd Graduate (2022.09. ~ 2023.02.)
