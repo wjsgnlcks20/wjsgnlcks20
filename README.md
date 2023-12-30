@@ -3,10 +3,12 @@ Currently focusing on solving algorithmic problems.
 
 ## 🚀 Activity
 - UMC 3rd Graduate (2022.09. ~ 2023.02.)
-- 42 Seoul 9th Cadet (2023.03. ~ )
-- SW Maestro 14th Mantee (2023.04. ~ )
+- 42 Seoul 9th Cadet (2023.03. ~ 2023.04.)
+- SW Maestro 14th Mantee (2023.04. ~ 2023.11.) - selected one of the top 15 (6%)
+- CEO, co-founder of the app "HairBe" (2024.01~ )
 
 ## 🔭 Current Interest
+- Gen AI
 - C/C++
 - Java
 - SpringBoot
